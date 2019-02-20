@@ -1,3 +1,3 @@
-USE:
-NodeJs
-MongoDB
+This project using:
+- NodeJs
+- MongoDB
